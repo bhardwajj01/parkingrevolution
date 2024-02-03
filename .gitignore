@@ -1,0 +1,25 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore database files
+db.sqlite3
+
+# Ignore secret keys and environment files
+.env
+
+# Ignore local settings (e.g., settings_local.py)
+local_settings.py
+
+# Ignore virtual environment
+env/
+
+# Ignore static and 
+media files (customize as needed)
+static/
+media/
+
+# Ignore logs
+logs/
